@@ -122,6 +122,7 @@ A curated list of awesome [Nim](https://nim-lang.org) frameworks, libraries and 
 * [nimAntTweakBar](https://github.com/krux02/nimAntTweakBar) - Wrapper for AntTweakBar.
 * [nimx](https://github.com/yglukhov/nimx) - Desktop, Mobile & Web GUI framework in Nim.
 * [NiGui](https://github.com/trustable-code/NiGui) -  cross-platform, desktop GUI toolkit [MIT]
+* [Wiish](https://github.com/iffy/wiish) – GUI framework might one day make it easy to develop, package and deploy auto-updating, cross-platform applications for desktop and mobile. [MIT]
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
