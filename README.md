@@ -274,6 +274,7 @@ It tests package installation and generates documentation using "nim doc".
 * [Nim by Example](https://nim-by-example.github.io) - Series of pages and examples for learning the Nim programming language.
 * [Nim for Python programmers](https://github.com/nim-lang/Nim/wiki/Nim-for-Python-Programmers) - Guide to Nim for people with experience in Python.
 * [Rosettacode:Nim](https://rosettacode.org/wiki/Category:Nim) - 100s of solutions for various tasks using Nim (Implementations available in other languages as well).
+* [Python/Cython/Nim CheatSheet](https://dev.to/juancarlospaco/python-cython-nim-cheatsheet-hjj)
 
 [**&DoubleUpArrow;**](#contents "Go to the top")
 
